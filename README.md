@@ -9,8 +9,7 @@
 ## 🌟 About Me  
 
 🎓 Pursuing **Master of Computer Applications** at **CHRIST (Deemed to be University), Bangalore**  
-💻 Experience as a **Software Engineer (Project-Based)** – developed a bilingual survey web application for the **Government of Karnataka**  
-🚀 Passionate about **Machine Learning**, **Web Development**, and exploring cutting-edge technologies  
+🚀 Passionate about  **Exploring Data**,**Web Development**, **Machine Learning**, and exploring cutting-edge technologies  
 🤝 Open to collaborating on **impactful open-source projects**  
 📫 Reach me at: **pranab.rai@mca.christuniversity.in** | **pranabrai407@gmail.com**  
 
@@ -22,7 +21,7 @@
   <a href="mailto:pranab.rai@mca.christuniversity.in">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-username">
+  <a href="https://www.linkedin.com/in/pranabrai">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/PRANABraight">
