@@ -38,17 +38,15 @@
   <img src="https://skillicons.dev/icons?i=python,js,java,mysql" />
 </p>
 
-### **Web Development**
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind" />
 </p>
 
-### **Database & Cloud**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,aws,firebase" />
 </p>
 
-### **Data Analysis & ML**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />  
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>  
@@ -65,11 +63,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRANABraight&layout=compact&theme=radical&hide_border=true" height="180em"/>
 </p>
 
----
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PRANABraight&theme=radical&hide_border=true" height="180em"/>
-</p>
 
 ---
 
