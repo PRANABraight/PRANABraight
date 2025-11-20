@@ -1,12 +1,10 @@
-# 👋 Hi, I'm Pranab Rai  
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Pranab%20Rai&fontSize=70&fontAlignY=35&desc=MCA%20Student%20|%20Developer%20|%20Tech%20Enthusiast&descAlignY=55&descAlign=50" />
 </p>
 
 ---
 
-## 🌟 About Me  
+## About Me  
 
 🎓 Pursuing **Master of Computer Applications** at **CHRIST (Deemed to be University), Bangalore**  
 🚀 Passionate about  **Exploring Data**,**Web Development**, **Machine Learning**, and exploring cutting-edge technologies  
@@ -15,7 +13,7 @@
 
 ---
 
-## 🔗 Connect With Me  
+## Connect With Me  
 
 <p align="center">
   <a href="mailto:pranab.rai@mca.christuniversity.in">
@@ -31,7 +29,7 @@
 
 ---
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 
 ### **Languages**
 <p align="center">
@@ -56,7 +54,7 @@
 
 ---
 
-## 📊 GitHub Stats  
+## GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PRANABraight&show_icons=true&theme=radical&hide_border=true" height="180em"/>
